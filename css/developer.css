@@ -1,0 +1,8 @@
+.error{    color: red;font-weight: 600;}
+.project_title{    text-align: center;text-decoration: underline;}
+.status ul li a {padding: 3px 20px;}
+.status ul {left: -30px !important;}
+.status button{cursor: pointer;}
+.status ul li:hover{background: #e1e3e9;}
+
+
